@@ -31,5 +31,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/antony-reis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antony-reis" height="30" width="40" /></a>
+<a href="https://instagram.com/tonynho_do_acre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tonynho_do_acre" height="30" width="40" /></a>
+</p>
 
-###
+<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antony-reis&show_icons=true&locale=en&layout=compact" alt="antony-reis" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antony-reis&show_icons=true&locale=en" alt="antony-reis" /></p>
+
