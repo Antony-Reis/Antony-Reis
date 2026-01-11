@@ -34,7 +34,3 @@
 <a href="https://linkedin.com/in/antony-reis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antony-reis" height="30" width="40" /></a>
 <a href="https://instagram.com/tonynho_do_acre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tonynho_do_acre" height="30" width="40" /></a>
 </p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antony-reis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antony-reis&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
