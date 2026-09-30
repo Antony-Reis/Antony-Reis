@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 Atualmente cursando Sistemas de Informação pela UFVJM<br><br>📚 Interessado por Data Science<br><br>🤝 Buscando projetos para colaborar<br><br>🎲 Também sou um amante de matemática</p>
+<p align="left">🌱 Atualmente cursando Sistemas de Informação pela UFVJM<br><br>📚 Interessado por Backend<br><br>🤝 Buscando projetos para colaborar<br><br>🎲 Também sou um amante de Machine Learning</p>
 
 ###
 
